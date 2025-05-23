@@ -10,7 +10,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Edad-21-blue" />
   <img src="https://img.shields.io/badge/Vive-Ecuador%2C%20Quito-blue?logo=flag&logoColor=white" />
-  <img src="https://img.shields.io/badge/Idiomas-Español%20%26%20Inglés-lightgrey" />
+  <img src="https://flagcdn.com/w40/ec.png" height="20" />
+  <img src="https://img.shields.io/badge/Idiomas-Español%20%26%20Inglés-blue" />
 </p>
 
 <hr>
