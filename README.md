@@ -5,8 +5,8 @@
 
 <div align="center">
 
-| Desarrollo Web | Programación || Frameworks y librerias|
-| -------------- | ------------ || ---------------------------- |
+| Desarrollo Web | Programación |
+| -------------- | ------------ |
 
 | <img src="https://skillicons.dev/icons?i=html,css,js,vue,py"/> | <img src="https://skillicons.dev/icons?i=vscode,vscodium,github,flutter,aws"/> |
 
