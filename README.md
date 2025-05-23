@@ -8,6 +8,32 @@
 </p>
 
 <hr>
+<h1 align="center"><b>Hola, soy Valentina Werle </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<img align="right" width="300px" alt="Unicornio" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+<b>Sobre mí</b>
+
+<p>
+  Soy estudiante de ingeniería en computación, actualmente estoy a mitad de carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como desarrolladora de software en una empresa que crea sistemas para carpintería. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
+</p>
+
+<ul>
+  <li>🌱 Actualmente estoy aprendiendo ...
+    <ul>
+      <li>Nest.js</li>
+      <li>Angular</li>
+    </ul>
+  </li>
+  <li>👯 Me gustaría colaborar en proyectos de código abierto.</li>
+  <li>✔ Pregúntame lo que quieras, estaré feliz de ayudarte.</li>
+  <li>Fuera del mundo tech, 💜 me encanta hacer streaming en Twitch, 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer libros de ciencia.</li>
+  <li>👾 Además, creo contenido sobre programación/tecnología en mis redes sociales, ¡así que siéntete libre de visitar mi perfil!</li>
+  <li>📫 Puedes contactarme en: <a href="mailto:valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a></li>
+</ul>
 
 
 <div align="center">
