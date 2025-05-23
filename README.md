@@ -43,3 +43,9 @@
 | <img src="https://skillicons.dev/icons?i=html" /><br><img src="https://skillicons.dev/icons?i=css" /><br><img src="https://skillicons.dev/icons?i=js" /><br><img src="https://skillicons.dev/icons?i=php" /><br><img src="https://skillicons.dev/icons?i=flutter" /><br><img src="https://skillicons.dev/icons?i=py" /> | <img src="https://skillicons.dev/icons?i=bash" /><br><img src="https://skillicons.dev/icons?i=vscode" /><br><img src="https://skillicons.dev/icons?i=visualstudio" /><br><img src="https://skillicons.dev/icons?i=docker" /><br><img src="https://skillicons.dev/icons?i=github" /><br><img src="https://skillicons.dev/icons?i=wordpress" /> | <img src="https://skillicons.dev/icons?i=vue" /><br><img src="https://skillicons.dev/icons?i=django" /><br><img src="https://skillicons.dev/icons?i=nodejs" /><br><img src="https://skillicons.dev/icons?i=tailwind" /><br><img src="https://skillicons.dev/icons?i=bootstrap" /><br><img src="https://skillicons.dev/icons?i=laravel" /> | <img src="https://skillicons.dev/icons?i=mysql" /><br><img src="https://skillicons.dev/icons?i=postgres" /><br><img src="https://skillicons.dev/icons?i=mongodb" /><br><img src="https://skillicons.dev/icons?i=sqlite" /> | <img src="https://skillicons.dev/icons?i=linux" /><br><img src="https://skillicons.dev/icons?i=ubuntu" /><br><img src="https://skillicons.dev/icons?i=arch" /><br><img src="https://skillicons.dev/icons?i=windows" /> |
 
 </div>
+
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=thedeath212&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/thedeath212)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=thedeath212&theme=material-palenight)](https://github.com/thedeath212)
