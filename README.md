@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<img align="right" width="300px" alt="Esqueleto kawaii estudiando" src="https://ih1.redbubble.net/image.153693137.1946/ssrco,classic_tee,mens,ffffff,fafafa,front,750x1000.u3.jpg" />
+<img align="right" width="300px" alt="Esqueleto kawaii estudiando" src="https://i.pinimg.com/originals/50/45/3f/50453fe81e14eadf05b4af9a1fa141f5.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <b>Sobre mí</b>
