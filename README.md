@@ -6,6 +6,6 @@
 
 | Desarrollo Web | Programación | Frameworks y Librerías | Bases de Datos |
 | -------------- | ------------ | ----------------------- | -------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> | <img src="https://skillicons.dev/icons?i=vue,react,nodejs,tailwind,bootstrap"/> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,php,flutter,,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,visualstudio,docker,github,wordpress"/> | <img src="https://skillicons.dev/icons?i=vue,django,nodejs,tailwind,bootstrap,laravel"/> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite"/> |
 
 </div>
