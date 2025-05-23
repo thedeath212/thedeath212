@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Edad-21-blue" />
   <img src="https://img.shields.io/badge/Vive-Ecuador%2C%20Quito-blue?logo=flag&logoColor=white" />
@@ -8,7 +6,7 @@
 </p>
 
 <hr>
-<h1 align="center"><b>Hola, soy Valentina Werle </b>
+<h1 align="center"><b>Hola, soy [Tu Nombre] </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -18,22 +16,23 @@
 <b>Sobre mí</b>
 
 <p>
-  Soy estudiante de ingeniería en computación, actualmente estoy a mitad de carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como desarrolladora de software en una empresa que crea sistemas para carpintería. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
+  Soy egresado de la carrera de desarrollo de software. Actualmente estoy ampliando mis conocimientos en desarrollo front-end, back-end y desarrollo móvil. Me apasiona aprender y crear soluciones innovadoras, productivas y creativas.
 </p>
 
 <ul>
   <li>🌱 Actualmente estoy aprendiendo ...
     <ul>
-      <li>Nest.js</li>
       <li>Angular</li>
+      <li>Desarrollo móvil</li>
     </ul>
   </li>
   <li>👯 Me gustaría colaborar en proyectos de código abierto.</li>
   <li>✔ Pregúntame lo que quieras, estaré feliz de ayudarte.</li>
-  <li>Fuera del mundo tech, 💜 me encanta hacer streaming en Twitch, 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer libros de ciencia.</li>
-  <li>👾 Además, creo contenido sobre programación/tecnología en mis redes sociales, ¡así que siéntete libre de visitar mi perfil!</li>
+  <li>Fuera del mundo tecnológico, me gusta hacer streaming en Twitch, jugar videojuegos, escuchar música y leer libros de ciencia.</li>
+  <li>👾 Además, creo contenido sobre programación y tecnología en mis redes sociales, ¡así que siéntete libre de visitar mi perfil!</li>
   <li>📫 Puedes contactarme en: <a href="mailto:valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a></li>
 </ul>
+
 
 
 <div align="center">
