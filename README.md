@@ -28,10 +28,7 @@
   </li>
   <li>👯 Me gustaría colaborar en proyectos de código abierto.</li>
   <li>✔ Pregúntame lo que quieras, estaré feliz de ayudarte.</li>
-  <li>Fuera del mundo tecnológico, me gusta hacer streaming en Twitch, jugar videojuegos, escuchar música y leer libros de ciencia.</li>
-  <li>👾 Además, creo contenido sobre programación y tecnología en mis redes sociales, ¡así que siéntete libre de visitar mi perfil!</li>
-  <li>📫 Puedes contactarme en: <a href="mailto:valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a></li>
-</ul>
+  <li>Fuera del mundo tecnológico, me gusta hacer jugar videojuegos, escuchar música y leer libros varios titulos como la divina comedia </li>
 
 
 
