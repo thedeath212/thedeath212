@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<img align="right" width="300px" alt="Unicornio" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width="300px" alt="Esqueleto kawaii estudiando" src="https://ih1.redbubble.net/image.153693137.1946/ssrco,classic_tee,mens,ffffff,fafafa,front,750x1000.u3.jpg" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <b>Sobre mí</b>
